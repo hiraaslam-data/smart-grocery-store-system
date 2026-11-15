@@ -204,5 +204,5 @@ All cases below were executed successfully by the included `unittest` suite (16 
 
 ---
 
-**Author:** [YOUR NAME]  
-**GitHub:** [YOUR USERNAME](https://github.com/[YOUR USERNAME])
+**Author:** [Hira Aslam]  
+**GitHub:** [hiraaslam-data](https://github.com/[hiraaslam-data])
